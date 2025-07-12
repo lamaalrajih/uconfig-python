@@ -1,0 +1,3 @@
+[submodule "uConfig"]
+	path = uConfig
+	url = https://github.com/Robotips/uConfig
